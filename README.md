@@ -27,7 +27,7 @@ DocExtract and PriceWatch run on free Render instances: they sleep after 15 minu
 
 ## How I work
 
-- **Discovery call:** a short call to understand the job that eats your time.
+- **Written brief:** tell me the job that eats your time; I reply with questions and a plan in writing, so nothing gets lost.
 - **Fixed quote:** one price agreed before I start. No hourly surprises.
 - **Build with tests:** you see a working version early; I test it against your real examples.
 - **Handover video:** a walkthrough plus the full source code, deployed in your accounts.
